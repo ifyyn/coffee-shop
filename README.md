@@ -27,3 +27,15 @@ Website ini dirancang dengan tampilan elegan dan performa cepat berkat fitur **H
 1. Clone repository:
    ```bash
    git clone https://github.com/username/repo-name.git
+2. Masuk ke folder project:
+   ```bash
+   cd repo-name
+3. Install dependencies:
+   ```bash
+   npm install
+4. Jalankan server development:
+   ```bash
+   npm run dev
+5. Build untuk produksi:
+   ```bash
+   npm run build
