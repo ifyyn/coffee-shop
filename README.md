@@ -1,4 +1,10 @@
-# React + Vite
+# Website Coffee Shop React + Vite
+
+<img src="public/images/1.png" alt="Foto" width="500"/>
+<img src="public/images/2.png" alt="Foto" width="500"/>
+<img src="public/images/3.png" alt="Foto" width="500"/>
+<img src="public/images/4.png" alt="Foto" width="500"/>
+<img src="public/images/5.png" alt="Foto" width="500"/>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
