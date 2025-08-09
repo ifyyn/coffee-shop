@@ -1,18 +1,29 @@
-# Website Coffee Shop React + Vite
+# ☕ Coffee Shop Website — React + Vite
 
-<img src="public/images/1.png" alt="Foto" width="500"/>
-<img src="public/images/2.png" alt="Foto" width="500"/>
-<img src="public/images/3.png" alt="Foto" width="500"/>
-<img src="public/images/4.png" alt="Foto" width="500"/>
-<img src="public/images/5.png" alt="Foto" width="500"/>
+Sebuah website modern bertema **Coffee Shop** yang dibuat menggunakan **React.js** dengan build tool **Vite**.  
+Website ini dirancang dengan tampilan elegan dan performa cepat berkat fitur **HMR (Hot Module Replacement)**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 Preview
+<img src="public/images/1.png" alt="Screenshot 1" width="500"/>
+<img src="public/images/2.png" alt="Screenshot 2" width="500"/>
+<img src="public/images/3.png" alt="Screenshot 3" width="500"/>
+<img src="public/images/4.png" alt="Screenshot 4" width="500"/>
+<img src="public/images/5.png" alt="Screenshot 5" width="500"/>
 
-Currently, two official plugins are available:
+## 🚀 Teknologi yang Digunakan
+- **React.js** — Library untuk membangun UI yang interaktif.
+- **Vite** — Build tool cepat dengan dukungan HMR.
+- **ESLint** — Menjaga kualitas kode dengan linting rules.
+- **@vitejs/plugin-react** — Plugin resmi untuk integrasi React di Vite.
+- **@vitejs/plugin-react-swc** — Alternatif plugin React dengan compiler SWC.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Fitur Utama
+- Tampilan responsif untuk berbagai perangkat.
+- Navigasi cepat berkat Vite + React Router (opsional).
+- Struktur kode rapi dan mudah dikembangkan.
+- Optimasi performa untuk produksi.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Cara Menjalankan Project
+1. Clone repository:
+   ```bash
+   git clone https://github.com/username/repo-name.git
